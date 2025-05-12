@@ -13,7 +13,7 @@ const config = {
 			fallback: null
 		}),
 		paths: {
-			base: dev ? '' : '/hlavac-zije', // github repo name
+			base: dev ? '' : '/hlavac-zije/heart-beat', // github repo name
 		}
 
 	},
